@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "chatu",
-    "slug": "chatu",
-    "version": "1.0.0",
+    "name": "chat_bot",
+    "slug": "chat_bot",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,18 +17,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.bidur.chatu",
-      "buildNumber": "1.0.0"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-
-      "package": "com.bidur.chatu",
-      "versionCode": 1
+      "package": "com.bidur.chat"
     },
     "web": {
       "favicon": "./assets/favicon.png"
